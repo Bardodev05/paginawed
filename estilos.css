@@ -42,4 +42,9 @@ header {
     margin-left: 45px;
     cursor: pointer;
 }
+.contenedor{
+    display:flex;
+    justify-content: space-between;
+    padding: 20px;
+}
 
